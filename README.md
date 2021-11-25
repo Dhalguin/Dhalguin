@@ -1,8 +1,19 @@
 ## Hola a Todos 👋  Soy Dhalgüin Hernández
 #### Desarrollador Fullstack 👨‍💻
 
+<img src='./res/perfil_info.png' alt='Perfil Imag' width='100%' />
+
 - Una persona que se encuentra en constante aprendizaje, en busca de nuevos desafios que superar.
 - Actualmente me encuentro expandiendo mis experiencias y habilidades para obtener mi primer trabajo en el mundo TI. :rocket:
+
+
+### Competencias
+
+- Rápido aprendizaje. :nerd_face:
+- Facultad para realizar múltiples tareas. :paperclips:
+- Fácil acoplamiento a los equipos de trabajo. :speaking_head:
+- Capacidad de resolver problemas complejos. :exploding_head:
+- Autoditacta. :books:
 
 ### Tecnologías 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,14 +25,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-
-### Competencias
-
-- Rápido aprendizaje. :nerd_face:
-- Facultad para realizar múltiples tareas. :paperclips:
-- Fácil acoplamiento a los equipos de trabajo. :speaking_head:
-- Capacidad de resolver problemas complejos. :exploding_head:
-- Autoditacta. :books:
 
 #### Puede contactarme a través de:
 
